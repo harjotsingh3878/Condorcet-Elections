@@ -1,0 +1,6 @@
+C:\Users\harjot\Documents\Visual Studio 2013\Projects\Condorcet\Condorcet\bin\Debug\Condorcet.exe.config
+C:\Users\harjot\Documents\Visual Studio 2013\Projects\Condorcet\Condorcet\bin\Debug\Condorcet.exe
+C:\Users\harjot\Documents\Visual Studio 2013\Projects\Condorcet\Condorcet\bin\Debug\Condorcet.pdb
+C:\Users\harjot\Documents\Visual Studio 2013\Projects\Condorcet\Condorcet\obj\Debug\Condorcet.exe
+C:\Users\harjot\Documents\Visual Studio 2013\Projects\Condorcet\Condorcet\obj\Debug\Condorcet.pdb
+C:\Users\harjot\Documents\Visual Studio 2013\Projects\Condorcet\Condorcet\obj\Debug\Condorcet.csprojResolveAssemblyReference.cache
